@@ -21,12 +21,41 @@
     justify-content: center;
 }
 
+
+
 .searchContainer{
+    
+    padding:20px;
+}
+.icon{
     display: flex;
     justify-content: center;
 }
 
-.icon{
+.inputForm{
+    
+    width: auto;
+    max-width: 584px;
+}
+
+
+
+.inputcontainer{
     display: flex;
-    justify-content: center;
+    align-items: center;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    height: 44px;
+    margin: 0 auto;
+   
+    max-width: 584px;
+}
+
+.inputcontainer div{
+    
+}
+
+.flexContainer{
+    
+
 }
