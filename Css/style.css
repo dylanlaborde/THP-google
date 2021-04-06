@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em;
+    align-items: baseline;
+
+}
+
+.navbar i{
+    align-items: baseline;
+  
+}
+
+.navbar a{
+    padding: 0.6em;
+    
+}
+
+.ggif{
+    display: flex;
+    justify-content: center;
+}
+
+.searchContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+}
